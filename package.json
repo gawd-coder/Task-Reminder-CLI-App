@@ -1,0 +1,11 @@
+{
+  "name": "taskreminder",
+  "version": "1.0.0",
+  "description": "Task reminder command line application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gawd-coder",
+  "license": "ISC"
+}
